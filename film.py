@@ -6,11 +6,9 @@ class Film:
     fw_imdb_scores = {}
 
     def merge(self):
-        list_fw = [x for x in self.fw_scores]
-        # list_imdb = [x for x in self.imdb_scores]
-        for i in list_fw:
-            if i in self.imdb_scores:
-                self.fw_imdb_scores[i] = round((self.fw_scores[i] + self.imdb_scores[i])/2, 2)
+        for k, v in self.fw_scores.items():
+            if k in self.imdb_scores:
+                self.fw_imdb_scores[k] = (self.imdb_scores[k] + v)/2
 
     def sort(self):
         self.fw_imdb_scores = {k: v for k, v in sorted(self.fw_imdb_scores.items(), key=lambda item: item[1], reverse=True)}
