@@ -8,7 +8,8 @@ class Film:
     def merge(self):
         for k, v in self.fw_scores.items():
             if k in self.imdb_scores:
-                self.fw_imdb_scores[k] = (self.imdb_scores[k] + v)/2
+                self.fw_imdb_scores[k] = round(((self.imdb_scores[k]+v)/2), 2)
+
 
     def sort(self):
         self.fw_imdb_scores = {k: v for k, v in sorted(self.fw_imdb_scores.items(), key=lambda item: item[1], reverse=True)}

@@ -32,10 +32,6 @@ for i in range(1, 1000, 50):
 
 films.merge()
 films.sort()
-films.fw_save_to_txt()
-films.imdb_save_to_txt()
 films.all_save_to_txt()
-films.imdb_save_to_txt()
-
 
 
