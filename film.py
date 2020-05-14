@@ -11,8 +11,6 @@ class Film:
         for k, v in self.fw_scores.items():
             if k in self.fw_imdb_scores:
                 self.fw_imdb_scores[k] = round(((v + self.imdb_scores[k])/2), 2)
-            else:
-                self.fw_imdb_scores[k] = v
 
     def sort(self):
         self.fw_imdb_scores = {k: v for k, v in sorted(self.fw_imdb_scores.items(), key=lambda item: item[1], reverse=True)}
