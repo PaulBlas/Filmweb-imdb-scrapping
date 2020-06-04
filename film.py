@@ -11,33 +11,34 @@ class Film:
                 self.fw_imdb_scores[k] = round(((self.imdb_scores[k]+v)/2), 2)
 
 
-    def sort(self):
+    def sort_all(self):
         self.fw_imdb_scores = {k: v for k, v in sorted(self.fw_imdb_scores.items(), key=lambda item: item[1], reverse=True)}
         self.imdb_scores = {k: v for k, v in sorted(self.imdb_scores.items(), key=lambda item: item[1], reverse=True)}
         self.fw_scores = {k: v for k, v in sorted(self.fw_scores.items(), key=lambda item: item[1], reverse=True)}
 
+    def sort_fw(self):
+        self.fw_scores = {k: v for k, v in sorted(self.fw_scores.items(), key=lambda item: item[1], reverse=True)}
 
-    def fw_save_to_txt(self):
-        with io.open('FW_ocena_popularność.txt', 'w', encoding='utf8') as wf:
-            wf.write('--FILMWEB NAJLEPSZE FILMY OCENA/POPULARNOSC\n')
+    def sort_imdb(self):
+        self.imdb_scores = {k: v for k, v in sorted(self.imdb_scores.items(), key=lambda item: item[1], reverse=True)}
+
+    def fw_save_to_txt(self, file_name='FW_ocena_popularność', title='FILMWEB NAJLEPSZE FILMY OCENA/POPULARNOSC'):
+        with io.open(f'{file_name}.txt', 'w', encoding='utf8') as wf:
+            wf.write(f'--{title}\n')
             for k, v in self.fw_scores.items():
                 wf.write(f'{k}: {v}\n')
 
-    def imdb_save_to_txt(self):
-        with io.open('Imdb_ocena_popularność.txt', 'w', encoding='utf8') as wf:
-            wf.write('--IMDB NAJLEPSZE FILMY OCENA/POPULARNOSC\n')
+    def imdb_save_to_txt(self, file_name='Imdb_ocena_popularność', title='IMDB NAJLEPSZE FILMY OCENA/POPULARNOSC'):
+        with io.open(f'{file_name}.txt', 'w', encoding='utf8') as wf:
+            wf.write(f'--{title}\n')
             for k, v in self.imdb_scores.items():
                 wf.write(f'{k}: {v}\n')
 
-    def all_save_to_txt(self):
-        with io.open('RANKING WSZECHCZASÓW.txt', 'w', encoding='utf8') as wf:
+    def all_save_to_txt(self, file_name='RANKING WSZECHCZASÓW', title='RANKING WSZECHCZASÓW'):
+        with io.open(f'{file_name}.txt', 'w', encoding='utf8') as wf:
             i = 1
-            wf.write('--RANKING WSZECHCZASÓW\n')
+            wf.write(f'--{title}\n')
             for k, v in self.fw_imdb_scores.items():
                 wf.write(f'{i}. {k}: {v}\n')
                 i+=1
-
-
-
-
 

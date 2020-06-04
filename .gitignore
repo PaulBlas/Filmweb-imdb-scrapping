@@ -1,0 +1,5 @@
+*.pyc
+scraps.py
+Pipfile
+Pipfile.lock
+

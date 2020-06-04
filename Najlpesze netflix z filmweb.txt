@@ -1,0 +1,591 @@
+--najlepsze netlfix/filmweb
+Skazani na Shawshank: 8.8
+Ojciec chrzestny: 8.6
+Władca Pierścieni: Powrót króla: 8.4
+Pulp Fiction: 8.3
+Incepcja: 8.3
+Siedem: 8.3
+Władca Pierścieni: Dwie wieże: 8.3
+Chłopcy z ferajny: 8.3
+Człowiek z blizną: 8.3
+Klaus: 8.2
+Psychoza: 8.1
+Spirited Away: W krainie Bogów: 8.1
+Władca Pierścieni: Drużyna Pierścienia: 8.0
+Mroczny Rycerz: 8.0
+Pamiętnik: 8.0
+Bogowie: 8.0
+Mój przyjaciel Hachiko: 8.0
+Monty Python i Święty Graal: 8.0
+Pełny magazynek: 8.0
+Contratiempo: 8.0
+Ruchomy zamek Hauru: 8.0
+Księżniczka Mononoke: 8.0
+Twój Vincent: 8.0
+Senna: 8.0
+Interstellar: 7.9
+Wszystko za życie: 7.9
+Mechaniczna pomarańcza: 7.9
+Żywot Briana: 7.9
+Ray: 7.9
+Shrek: 7.8
+Lśnienie: 7.8
+Wołyń: 7.8
+Wielki Mike. The Blind Side: 7.8
+Donnie Brasco: 7.8
+Cudowny chłopak: 7.8
+Trener: 7.8
+Mój sąsiad Totoro: 7.8
+Zawrót głowy: 7.8
+Zaklęte rewiry: 7.8
+Nausicaä z Doliny Wiatru: 7.8
+Sherlock Holmes: 7.7
+Mroczny Rycerz powstaje: 7.7
+Ostatni samuraj: 7.7
+Joe Black: 7.7
+Łowca androidów: 7.7
+Słaby punkt: 7.7
+2001: Odyseja kosmiczna: 7.7
+Chce się żyć: 7.7
+Tamte dni, tamte noce: 7.7
+Duża ryba: 7.7
+Mały Książę: 7.7
+Wielkie piękno: 7.7
+Laputa – podniebny zamek: 7.7
+Ikar: 7.7
+Szept serca: 7.7
+Batman - Początek: 7.6
+Sherlock Holmes: Gra cieni: 7.6
+Choć goni nas czas: 7.6
+Czerwony smok: 7.6
+Ocean's Eleven: Ryzykowna gra: 7.6
+Ostatnia rodzina: 7.6
+Blues Brothers: 7.6
+Tato: 7.6
+Mustang z Dzikiej Doliny: 7.6
+Zagubiona autostrada: 7.6
+Pożegnanie z Afryką: 7.6
+Inside Job: 7.6
+Palmy w śniegu: 7.6
+Tajemniczy świat Arrietty: 7.6
+Matrix: 7.5
+Cast Away - poza światem: 7.5
+Jestem legendą: 7.5
+300: 7.5
+Madagaskar: 7.5
+Szybcy i wściekli: 7.5
+Krwawy diament: 7.5
+Rejs: 7.5
+Zawód: Szpieg: 7.5
+Elizabeth: 7.5
+Klub winowajców: 7.5
+300 mil do nieba: 7.5
+Podniebna poczta Kiki: 7.5
+Ucieczka z kina "Wolność": 7.5
+Tylko dla odważnych: 7.5
+Nędznicy: 7.5
+Szkarłatny pilot: 7.5
+V jak Vendetta: 7.4
+Dirty Dancing: 7.4
+Terminal: 7.4
+Kocha, lubi, szanuje: 7.4
+Szybcy i wściekli 5: 7.4
+Na skraju jutra: 7.4
+Big Short: 7.4
+Sztuka kochania. Historia Michaliny Wisłockiej: 7.4
+Dla niej wszystko: 7.4
+Historia małżeńska: 7.4
+Układ zamknięty: 7.4
+Moon: 7.4
+Skazany: 7.4
+Imagine: 7.4
+Dziewczyna i chłopak - wszystko na opak: 7.4
+Cuda z nieba: 7.4
+Bandyta: 7.4
+Głowa do wycierania: 7.4
+Księżniczka łabędzi: 7.4
+Mudbound: 7.4
+Ponyo: 7.4
+Szklany zamek: 7.4
+O chłopcu, który ujarzmił wiatr: 7.4
+Kac Vegas: 7.3
+Wielki Gatsby: 7.3
+A.I. Sztuczna inteligencja: 7.3
+Za szybcy, za wściekli: 7.3
+Furia: 7.3
+Szybko i wściekle: 7.3
+Szybcy i wściekli 6: 7.3
+Szybcy i wściekli 7: 7.3
+Zakochany bez pamięci: 7.3
+Operacja Argo: 7.3
+Ocean's 13: 7.3
+Dom nad jeziorem: 7.3
+Most do Terabithii: 7.3
+Minionki rozrabiają: 7.3
+Dwóch papieży: 7.3
+Miasto złodziei: 7.3
+Rodzina Addamsów: 7.3
+Carte Blanche: 7.3
+Światło między oceanami: 7.3
+Rozważna i romantyczna: 7.3
+Urodzony 4 lipca: 7.3
+Spartakus: 7.3
+Papusza: 7.3
+Zdążyć przed północą: 7.3
+Beasts of No Nation: 7.3
+Zjawa: 7.2
+Matrix Reaktywacja: 7.2
+Zodiak: 7.2
+Birdman: 7.2
+Wrogowie publiczni: 7.2
+Wiek Adaline: 7.2
+Ocean's Twelve: Dogrywka: 7.2
+Spider-Man: Homecoming: 7.2
+Hotel Transylwania: 7.2
+Kryptonim U.N.C.L.E.: 7.2
+W ciemności: 7.2
+Bodyguard: 7.2
+Naga broń: Z akt Wydziału Specjalnego: 7.2
+W sieci kłamstw: 7.2
+Jestem mordercą: 7.2
+Niezłomny: 7.2
+Rodzina Addamsów 2: 7.2
+Czterej bracia: 7.2
+Fatalne zauroczenie: 7.2
+Dzień patriotów: 7.2
+Czas patriotów: 7.2
+Na linii ognia: 7.2
+Opiekun: 7.2
+Berlin Calling: 7.2
+Zwycięzca: 7.2
+Narzeczona dla kota: 7.2
+Charlie i fabryka czekolady: 7.1
+Faceci w czerni: 7.1
+Millerowie: 7.1
+Matrix Rewolucje: 7.1
+Niezgodna: 7.1
+Drogówka: 7.1
+O północy w Paryżu: 7.1
+Szybcy i wściekli: Tokio Drift: 7.1
+Baby Driver: 7.1
+Planeta Singli: 7.1
+Kung Fu Panda: 7.1
+Chappie: 7.1
+Szczęściarz: 7.1
+Burleska: 7.1
+W ciemność. Star Trek: 7.1
+Irlandczyk: 7.1
+U Pana Boga za piecem: 7.1
+Żywioł. Deepwater Horizon: 7.1
+Godziny szczytu 3: 7.1
+Król: 7.1
+Szakal: 7.1
+Okja: 7.1
+Frances Ha: 7.1
+Fatamorgana: 7.1
+Wolny dzień Ferrisa Buellera: 7.1
+Brud: 7.1
+Champion 4: Walka o honor: 7.1
+Park Jurajski: 7.0
+The Social Network: 7.0
+Jestem na tak: 7.0
+Och, życie: 7.0
+Pogromcy duchów: 7.0
+Azyl: 7.0
+Czarne lustro: Bandersnatch: 7.0
+Nić widmo: 7.0
+Chrzest: 7.0
+Ballada o Busterze Scruggsie: 7.0
+Umysł w ogniu: 7.0
+Stowarzyszenie miłośników literatury i placka z kartoflanych obierek: 7.0
+Wendeta: 7.0
+Opowieści z Ziemiomorza: 7.0
+Seks, kłamstwa i kasety wideo: 7.0
+Oblężenie Jadotville: 7.0
+Fyre: Najlepsza impreza, która nigdy się nie zdarzyła: 7.0
+Kac Vegas w Bangkoku: 6.9
+Katyń: 6.9
+Iluzja 2: 6.9
+John Wick: 6.9
+Ogniem i mieczem: 6.9
+Zaginiony Świat: Jurassic Park: 6.9
+Blue Jasmine: 6.9
+Maska Zorro: 6.9
+Ludzkie dzieci: 6.9
+To skomplikowane: 6.9
+Rodzinne rewolucje: 6.9
+Ziarno prawdy: 6.9
+Aż do kości: 6.9
+Obłędny rycerz: 6.9
+Do wszystkich chłopców, których kochałam: 6.9
+Mamma Mia! Here We Go Again: 6.9
+Nieproszeni goście: 6.9
+Mission: Impossible - Fallout: 6.9
+Zanim odejdę: 6.9
+Roma: 6.9
+U Pana Boga w ogródku: 6.9
+Ukryty wymiar: 6.9
+Czarne bractwo. BlacKkKlansman: 6.9
+Jackass - świry w akcji: 6.9
+Fanatyk: 6.9
+Diuna: 6.9
+Wallace i Gromit: Klątwa królika: 6.9
+Kandydat: 6.9
+Na układy nie ma rady: 6.9
+Jak dogonić szczęście: 6.9
+Maska: 6.8
+Jumanji: 6.8
+Mumia: 6.8
+Żona na niby: 6.8
+American Pie: Zjazd absolwentów: 6.8
+Faceci w czerni II: 6.8
+Zombieland: 6.8
+Faceci w czerni 3: 6.8
+Duże dzieci: 6.8
+Wodny świat: 6.8
+Władcy umysłów: 6.8
+Człowiek-demolka: 6.8
+Moje córki krowy: 6.8
+Kontrabanda: 6.8
+Wymyk: 6.8
+Po prostu walcz 2: 6.8
+Gorzka siedemnastka: 6.8
+W krzywym zwierciadle: Europejskie wakacje: 6.8
+Ktoś całkiem obcy: 6.8
+W sieci pająka: 6.8
+Niewinne: 6.8
+Erratum: 6.8
+On wrócił: 6.8
+Uczniowska balanga: 6.8
+Nie ma drugiej takiej: 6.8
+Piotruś Królik: 6.8
+Spider-Man 2: 6.7
+Sara: 6.7
+Ciche miejsce: 6.7
+Mumia powraca: 6.7
+Lady Bird: 6.7
+Wakacje Jasia Fasoli: 6.7
+Zbaw nas ode złego: 6.7
+Gangster Squad. Pogromcy mafii: 6.7
+Czarny Czwartek. Janek Wiśniewski padł: 6.7
+Karbala: 6.7
+Naznaczony: rozdział 2: 6.7
+Nauka spadania: 6.7
+Zombie express: 6.7
+Siedem sióstr: 6.7
+Nieoszlifowane diamenty: 6.7
+The Highwaymen: 6.7
+Wojna Charliego Wilsona: 6.7
+Shaft: 6.7
+Asteriks i Obeliks: Osiedle Bogów: 6.7
+Król wyjęty spod prawa: 6.7
+Trudne słówka: 6.7
+Artur ratuje Gwiazdkę: 6.7
+Noc żywych trupów: 6.7
+Kronika świąteczna: 6.7
+Grawitacja: 6.6
+World War Z: 6.6
+Mroczne cienie: 6.6
+Zanim odejdą wody: 6.6
+Zbuntowana: 6.6
+Książę w Nowym Jorku: 6.6
+Kobiety pragną bardziej: 6.6
+Dwa tygodnie na miłość: 6.6
+Underworld: Przebudzenie: 6.6
+Ekspres polarny: 6.6
+Niezniszczalni 3: 6.6
+Park Jurajski III: 6.6
+Karate Kid: 6.6
+7 uczuć: 6.6
+Obława: 6.6
+S.W.A.T. Jednostka Specjalna: 6.6
+Czwarta władza: 6.6
+Makbet: 6.6
+Państwo młodzi: Chuck i Larry: 6.6
+Platforma: 6.6
+Bez litości 2: 6.6
+Dżungla: 6.6
+U Pana Boga za miedzą: 6.6
+Dzień zagłady: 6.6
+Witajcie w dżungli: 6.6
+Matylda: 6.6
+Bilet na Księżyc: 6.6
+Tatarak: 6.6
+Dzikie żądze: 6.6
+Projekt X: 6.5
+Pitbull. Niebezpieczne kobiety: 6.5
+Salt: 6.5
+Terminator: Ocalenie: 6.5
+King Kong: 6.5
+Szefowie wrogowie: 6.5
+Pacific Rim: 6.5
+Valerian i Miasto Tysiąca Planet: 6.5
+Atomic Blonde: 6.5
+Happy Feet: Tupot małych stóp: 6.5
+Pada Shrek: 6.5
+Planeta Singli 2: 6.5
+Inkarnacja: 6.5
+Kamerdyner: 6.5
+Dick i Jane: Niezły ubaw: 6.5
+Do szaleństwa: 6.5
+Trauma: 6.5
+Uprowadzenie Agaty: 6.5
+Turbo: 6.5
+Mocne uderzenie: 6.5
+Przyjęty: 6.5
+Złoto pustyni: 6.5
+22 lipca: 6.5
+Geniusz: 6.5
+Dziewczyny z drużyny 4: 6.5
+Dziewczyny z drużyny: Walcz do końca: 6.5
+Miłość aż po ślub: 6.5
+Honey 2: 6.5
+Miasto 44: 6.4
+Człowiek ze stali: 6.4
+Starcie tytanów: 6.4
+Nie otwieraj oczu: 6.4
+Seks w wielkim mieście: 6.4
+Autopsja Jane Doe: 6.4
+Świat w płomieniach: 6.4
+W 80 dni dookoła świata: 6.4
+Berek: 6.4
+Facet pełen uroku: 6.4
+Lekarstwo na życie: 6.4
+El Camino: Film "Breaking Bad": 6.4
+Demon: 6.4
+Tyler Rake: Ocalenie: 6.4
+Umysł przestępcy: 6.4
+Czy to ty, czy to ja: 6.4
+Dzień kobiet: 6.4
+Słodkie zmartwienia: 6.4
+Jestem matką: 6.4
+Happy Feet: Tupot małych stóp 2: 6.4
+Zaginione miasto Z: 6.4
+Wszystkie jasne miejsca: 6.4
+Nowość: 6.4
+I Don't Feel at Home in This World Anymore: 6.4
+Lucy: 6.3
+Co ty wiesz o swoim dziadku?: 6.3
+Wałęsa. Człowiek z nadziei: 6.3
+Złoty kompas: 6.3
+Sylwester w Nowym Jorku: 6.3
+Pokot: 6.3
+Body/Ciało: 6.3
+Dorwać Smarta: 6.3
+Mechanik: Konfrontacja: 6.3
+Zostańmy przyjaciółmi: 6.3
+The Kissing Booth: 6.3
+Smerfy 2: 6.3
+Smoking: 6.3
+Smętarz dla zwierzaków: 6.3
+Nasza niania jest agentem: 6.3
+Kurier: 6.3
+Szczęki 2: 6.3
+Statek miłości: 6.3
+Mowgli: Legenda dżungli: 6.3
+Nic do ukrycia: 6.3
+Kac Vegas III: 6.2
+Pan Tadeusz: 6.2
+17 Again: 6.2
+Transformers: Wiek zagłady: 6.2
+Anihilacja: 6.2
+Gniew tytanów: 6.2
+Jedz, módl się, kochaj: 6.2
+Duchy moich byłych: 6.2
+Bright: 6.2
+Podróż na Tajemniczą Wyspę: 6.2
+Konwój: 6.2
+Miami Vice: 6.2
+Dziewczyna z ekstraklasy: 6.2
+Proceder: 6.2
+Młoda i piękna: 6.2
+Babe - świnka z klasą: 6.2
+Juliusz: 6.2
+Swatamy swoich szefów: 6.2
+Obsesja: 6.2
+Gdy spotkaliśmy się pierwszy raz: 6.2
+Anatomia zła: 6.2
+Zaginione dziewczyny: 6.2
+Fala: 6.2
+ARQ: 6.2
+Nieposłuszne: 6.2
+Głupi i głupszy: 6.1
+Walentynki: 6.1
+Seria Niezgodna: Wierna: 6.1
+Jurassic World: Upadłe królestwo: 6.1
+Mumia: Grobowiec Cesarza Smoka: 6.1
+Król Skorpion: 6.1
+Londyn w ogniu: 6.1
+Nieracjonalny mężczyzna: 6.1
+Planeta Singli 3: 6.1
+Z ust do ust: 6.1
+Bez smyczy: 6.1
+W imię...: 6.1
+1922: 6.1
+Po prostu przyjaźń: 6.1
+Idol z piekła rodem: 6.1
+Plan B: 6.1
+Zamiana z księżniczką: 6.1
+Żyć nie umierać: 6.1
+November Man: 6.1
+Spectral: 6.1
+Amerykańska sielanka: 6.1
+Odkrycie: 6.1
+Prosta historia o morderstwie: 6.1
+Szalona noc: 6.1
+Skrzydlate świnie: 6.0
+Pan i Pani Kiler: 6.0
+Battleship: Bitwa o Ziemię: 6.0
+Godzilla: 6.0
+Cztery Gwiazdki: 6.0
+Gra Geralda: 6.0
+Złoto dezerterów: 6.0
+Wszyscy moi mężczyźni: 6.0
+Hush: 6.0
+Naznaczony: Ostatni klucz: 6.0
+Śledztwo Spensera: 6.0
+Święta Last Minute: 6.0
+Ki: 6.0
+Asystent wampira: 6.0
+Czym chata bogata!: 6.0
+Excentrycy, czyli po słonecznej stronie ulicy: 6.0
+Ładunek: 6.0
+Krowy na wypasie: 6.0
+Lejdis: 5.9
+Testosteron: 5.9
+Evan Wszechmogący: 5.9
+Zemsta: 5.9
+6 Underground: 5.9
+Epicentrum: 5.9
+Nigdy nie jest za późno: 5.9
+Scooby-Doo 2: Potwory na gigancie: 5.9
+Zaproszenie: 5.9
+Brick Mansions. Najlepszy z najlepszych: 5.9
+Strażnicy cnoty: 5.9
+BFG: Bardzo Fajny Gigant: 5.9
+Anon: 5.9
+The Do-Over: 5.9
+Panie Dulskie: 5.9
+Verónica: 5.9
+Dziewczyny z drużyny 2: 5.9
+Seks w wielkim mieście 2: 5.8
+Potrójna granica: 5.8
+Jądro Ziemi: 5.8
+Gęsia skórka: 5.8
+40 lat minęło: 5.8
+Circle: 5.8
+Pralnia: 5.8
+Karate Kid IV: Mistrz i uczennica: 5.8
+Suburbicon: 5.8
+iBoy: 5.8
+W cieniu księżyca: 5.8
+Sekrety i grzeszki: 5.8
+Spongebob: Na suchym lądzie: 5.8
+Tau: 5.8
+Jaja w tropikach: 5.7
+Assassin's Creed: 5.7
+Piksele: 5.7
+Wywiad ze słońcem narodu: 5.7
+Zabójczy rejs: 5.7
+Wkręceni 2: 5.7
+Scooby-Doo: 5.7
+Rytuał: 5.7
+Płynące wieżowce: 5.7
+Piła: Dziedzictwo: 5.7
+Polar: 5.7
+Drapacz chmur: 5.7
+Amok: 5.7
+Król życia: 5.7
+Transporter: Nowa moc: 5.7
+Striptiz: 5.7
+Do wszystkich chłopców: P.S. Wciąż cię kocham: 5.7
+Elf: 5.7
+Machina wojenna: 5.7
+Jaki ojciec, taka córka: 5.7
+Świąteczny książę: 5.7
+Baby są jakieś inne: 5.6
+Green Lantern: 5.6
+Kowboje i obcy: 5.6
+7 rzeczy, których nie wiecie o facetach: 5.6
+Coś za mną chodzi: 5.6
+Inwazja: Bitwa o Los Angeles: 5.6
+Sierra Burgess jest przegrywem: 5.6
+Kobieta sukcesu: 5.6
+Czerwony pająk: 5.6
+Nago: 5.6
+Tammy: 5.6
+Piłsudski: 5.6
+Wkręceni: 5.5
+Mroczna wieża: 5.5
+Jak romantycznie!: 5.5
+Doom: 5.5
+Superman: Powrót: 5.5
+Kluseczka: 5.5
+Wynajmij sobie chłopaka: 5.5
+Modelka: 5.5
+Apostoł: 5.5
+Wszystkie nieprzespane noce: 5.5
+Zagłada: 5.5
+Miłość pod jednym dachem: 5.5
+Plac zabaw: 5.5
+Sekstaśma: 5.4
+Legion: 5.4
+Śniadanie do łóżka: 5.4
+Nowe oblicze Greya: 5.4
+Mali agenci 2: Wyspa marzeń: 5.4
+Bez wstydu: 5.4
+Austin Powers i Złoty Członek: 5.4
+Wredne dziewczyny 2: 5.4
+Maria Skłodowska-Curie: 5.4
+M jak morderca: 5.4
+Jupiter: Intronizacja: 5.3
+Mali agenci: 5.3
+Ambassada: 5.3
+Volta: 5.3
+Pomniejszenie: 5.3
+Paradoks Cloverfield: 5.3
+Plagi Breslau: 5.3
+Opiekunka: 5.3
+Ultraviolet: 5.3
+Eli: 5.3
+Czerwony kapitan: 5.3
+Sponsoring: 5.2
+Jack i Jill: 5.2
+Velvet Buzzsaw: 5.2
+How It Ends: 5.2
+Pierwsza noc oczyszczenia: 5.2
+Kobiety mafii: 5.1
+Porady na zdrady: 5.1
+Córki dancingu: 5.1
+You Get Me: 5.1
+Polskie gówno: 5.1
+Cam: 5.1
+Pokochaj, poślub, powtórz: 5.1
+Disco Polo: 5.0
+Och, Karol 2: 4.9
+Mali Agenci 3D: Trójwymiarowy odjazd: 4.9
+W wysokiej trawie: 4.9
+Na bank się uda: 4.9
+Wysoka dziewczyna: 4.9
+Nieulotne: 4.8
+Cisza: 4.8
+Sekretna obsesja: 4.8
+Pani z przedszkola: 4.7
+The Titan: 4.7
+Szczęki 3: 4.7
+11 minut: 4.6
+Pech to nie grzech: 4.6
+IO: 4.6
+Botoks: 4.5
+Kto tam?: 4.5
+W lesie dziś nie zaśnie nikt: 4.4
+Notatnik śmierci: 4.4
+Bejbi blues: 4.3
+Idealny facet dla mojej dziewczyny: 4.3
+Kobiety mafii 2: 4.3
+Bad Boy: 4.3
+#WSZYSTKOGRA: 4.2
+365 dni: 4.0
+Dom otwarty: 3.4
+Kochaj: 3.3
+Smoleńsk: 2.4
