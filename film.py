@@ -1,9 +1,10 @@
 import io
 
 class Film:
-    fw_scores = {}
-    imdb_scores = {}
-    fw_imdb_scores = {}
+    def __init__(self):
+        self.fw_scores = {}
+        self.imdb_scores = {}
+        self.fw_imdb_scores = {}
 
     def merge(self):
         for k, v in self.fw_scores.items():
